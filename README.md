@@ -20,6 +20,6 @@ Projects completed in Artificial Intelligence Nanodegree
 #### >> Windows: deactivate environment_name
 
 ## 3. Using pip freeze to create appropriate:
-$ env1/bin/pip freeze > requirements.txt
-$ env2/bin/pip install -r requirements.txt
+#### $ env1/bin/pip freeze > requirements.txt
+#### $ env2/bin/pip install -r requirements.txt
 
