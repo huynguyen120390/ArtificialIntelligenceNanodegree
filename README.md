@@ -4,9 +4,9 @@ Projects completed in Artificial Intelligence Nanodegree
   If you are seeing the following "conda command not found" and are using ZShell, you have to do the following:
           Add export PATH="/Users/username/anaconda/bin:$PATH" to your .zsh_config file.
 2. Common Conda Commands in Terminal:
->> conda list : to view lists of packages in current environment
->> conda install package_names : install packages
->> conda remove package_names : remove packages
+#>> conda list : to view lists of packages in current environment
+#>> conda install package_names : install packages
+#>> conda remove package_names : remove packages
 >> conda update package_names : update packages
 >> conda upgrade conda
 >> conda upgrade --all
