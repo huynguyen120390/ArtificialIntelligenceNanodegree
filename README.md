@@ -2,7 +2,8 @@
 Projects completed in Artificial Intelligence Nanodegree
 
 ## A.Set up:
-## 1. Set up Anaconda 64bit or 33 bit for Windows, Mac, Linux: https://www.anaconda.com/download/
+## 1. Set up Anaconda 64bit or 33 bit for Windows, Mac, Linux: 
+  #### https://www.anaconda.com/download/
   If you are seeing the following "conda command not found" and are using ZShell, you have to do the following:Add
   #### export PATH="/Users/username/anaconda/bin:$PATH" to your .zsh_config file.
   Extra Reading:
