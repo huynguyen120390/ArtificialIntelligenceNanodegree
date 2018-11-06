@@ -23,8 +23,14 @@ Projects completed in Artificial Intelligence Nanodegree
 #### >> Windows: activate environment_name
 #### >> OS/Linux : source deactivate environment_name
 #### >> Windows: deactivate environment_name
+#### >> conda env list : list all environments 
+#### >> conda env remove -n environment_name
 
-## 3. Using '>>pip freeze' to create appropriate requirement file with pip:
+## 3. Share environments:
+#### >> conda env export > environment_name.yaml
+#### >> conda env create -f environment_name.yaml
+
+### Using '>>pip freeze' to create appropriate requirement file with pip:
 #### $ env1/bin/pip freeze > requirements.txt
 #### $ env2/bin/pip install -r requirements.txt
 
